@@ -16,3 +16,9 @@
         grid-template-columns: 1fr;
     }
 }
+@media screen and (max-width: 414px) {
+    .container {
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr;
+    }
+}
