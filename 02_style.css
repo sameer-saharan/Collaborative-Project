@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #f3f0f0;
+    
+}
